@@ -10,7 +10,7 @@ import java.awt.event.ActionListener;
 import java.util.HashMap;
 
 public class CarLocationFinder extends JFrame implements ActionListener {
-private JTextField licensePlateField;
+
     private JTextField licensePlateField;
     private JTextArea locationResultArea;
 
